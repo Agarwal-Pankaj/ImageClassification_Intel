@@ -23,3 +23,14 @@ For Further Information follow the below Link:
 
 Link: https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/
 
+# Transfer Learning using imagenet/inception_v3/classification
+
+https://tfhub.dev/google/imagenet/inception_v3/classification/1
+
+(Accuracy Level on LeaderBoard : 0.9269406393): 
+
+# Scope for improvement
+
+Data Augmentation
+
+Resnet : https://tfhub.dev/google/imagenet/resnet_v2_50/classification/1
